@@ -4,7 +4,6 @@ import { Modal as AntModal, ModalProps } from 'antd';
 import { Dayjs } from 'dayjs';
 import dayjs from 'dayjs';
 
-import { Layout, Typography } from "antd";
 import { useSelector } from "react-redux";
 import { Rate } from "antd";
 import { RootState } from "../../store";
